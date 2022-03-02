@@ -5,6 +5,10 @@ This is the OpenCore 0.7.0 EFI files needed to boot macOS Catalina and Big Sur o
 
 ![ASUS X570-PRO Motherboard](https://www.asus.com/media/global/products/aDvY2vRFhs99nFdl/P_setting_xxx_0_90_end_500.png)
 
+## DISCLAIMER
+
+THIS INFORMATION/RESEARCH HAS BEEN DONE AND SHARED PURELY FOR EXPERIMENTAL AND RESEARCH PURPOSES, AND IS IN NO MAY MEANT TO PROMOTE CIRCUMVENTING OF ANYTHING THAT IS SOMEONE ELSE'S CORPORATE PRIVATE PROPERTY. THE INFORMATION LISTED HERE IS PURELY FOR EDUCATIONAL PURPOSES AND SHOULD YOU CHOOSE TO UTILIZE IT IN ANY WAY, I AM IN NO WAY RESPONSIBLE FOR ANY INJUNCTIONS/PROBLEMS THAT MAY OR MAY NOT ARISE AND/OR BE BROUGHT AGAINST ANOTHER FOR THEIR CHOOSING TO HAVE DONE SO.
+
 ## !! ATTENTION !!
 _**Whilst this is a booting and "mostly" working EFI for this machine, do bear in mind that everyone has different hardware peripherals that they use, but for the most part, this should get it booted for you. There always could be more fine tuning done as well. This is meant to get you going in general. NOTE: For anything beyond Big Sur 11.3.x, one will need to map their USB ports and have a port mapped kext in place before updating to anything 11.3.x or later, as XHCIPortLimit patch no longer works beyond those versions. Take this as a reminder that nothing can replace a properly mapped set of USB ports at the ACPICA level.**_
 
